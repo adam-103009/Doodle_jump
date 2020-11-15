@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/box</file>
+        <file>image/wall.png</file>
+        <file>image/energypng</file>
+        <file>image/monster.jpg</file>
+        <file>image/pruz2.png</file>
+        <file>image/monster_LuLu.png</file>
+        <file>image/fly_cat.png</file>
+        <file>image/doodle-sprites-2 (2).png</file>
+        <file>image/doodle-sprites-2 (1).png</file>
+        <file>image/doodle-sprites-2.png</file>
+        <file>image/shield.png</file>
+        <file>image/shield (1).png</file>
+        <file>image/Shield_shot.png</file>
+        <file>image/Shield_left .png</file>
+        <file>image/doodle-shoot.png</file>
+        <file>image/doodle_right_rocket 拷貝.png</file>
+        <file>image/doodle_right.png</file>
+        <file>image/doodle_left_rocket.png</file>
+        <file>image/doodle_left.png</file>
+        <file>image/heart.png</file>
+    </qresource>
+</RCC>
